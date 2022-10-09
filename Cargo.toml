@@ -7,6 +7,8 @@ description = "The Rust implementation to access the OWASP ZAP API"
 repository = "https://github.com/zaproxy/zap-api-rust"
 keywords = ["owasp", "zap", "zaproxy", "api"]
 license = "Apache-2.0"
+readme = "README.md"
+homepage = "https://zaproxy.org"
 
 [dependencies]
 reqwest = "0.9.18"
